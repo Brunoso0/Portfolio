@@ -1,0 +1,24 @@
+
+.projetos h1{
+    text-align: center;
+    margin-top: 190px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 50px;
+    row-gap: 60px;
+}
+.trabalhos img{
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(125, 54, 54, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+}
+
+.trabalhos{
+    position: relative;
+    text-align: center;
+}
+
+.trabalhos a{
+    text-decoration: none; 
+}

@@ -1,0 +1,21 @@
+.contato {
+  width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5rem;
+}
+
+.contato img {
+  width: 30px;
+}
+
+.rede {
+  display: flex;
+  padding-left: 9rem;
+  padding-top: 1rem;
+}
+
+
+.contato h1 {
+  text-align: center;
+}
